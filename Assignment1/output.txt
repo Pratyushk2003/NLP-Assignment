@@ -1,0 +1,18 @@
+Number of Tokens: 9401
+Number of Words (after stop-word removal): 5838
+Vocabulary Size: 1465
+Number of Words (after stemming): 5838
+Number of Words (after lemmatization): 5838
+Most 10 Frequent Words:
+,: 542
+Service: 197
+Provider: 192
+.: 176
+NetApp: 172
+shall: 137
+Agreement: 116
+): 109
+(: 105
+Information: 48
+Number of Nouns: 3016
+Number of Adjectives: 881
